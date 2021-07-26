@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @graysonhanson
+- 👀 I’m interested in design patterns & clean code.
+- 🌱 I’m currently learning advanced c++.
+- 📫 How to reach me graydhanson@gmail.com
